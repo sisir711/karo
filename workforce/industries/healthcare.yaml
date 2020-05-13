@@ -1,0 +1,20 @@
+name: Healthcare
+shortcode: health
+tasks:
+  doctor:
+    - quality
+  nurse:
+    - quality
+    - wastage
+  police:
+    - violation  
+  phlebotamist:
+    - freshness
+    - quality
+  engineer:
+    - wastage
+    - coverage
+  investor:
+    - revenue
+  teacher:
+    - supply

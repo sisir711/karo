@@ -1,0 +1,15 @@
+name: Finance
+shortcode: investor
+tasks: 
+  manager:
+    - revenue
+    - quality
+    - returns
+  police:
+    - violation  
+  engineer:
+    - freshness
+    - cost
+    - wastage
+  teacher:
+    - supply

@@ -1,0 +1,17 @@
+name: Software
+shortcode: software
+tasks:
+  engineer:
+    - quality
+    - revenue
+    - coverage
+    - wastage
+    - freshness
+  investor:
+    - returns
+    - wastage
+    - cost
+  police:
+    - violation
+  teacher:
+    - supply

@@ -1,0 +1,20 @@
+name: Agriculture
+shortcode: agritech
+tasks:
+  farmer:
+    - weight
+    - quality
+  grocer:
+    - revenue
+    - returns
+    - freshness
+  police:
+    - violation  
+  cook:
+    - freshness
+    - cost
+    - returns
+  dishwasher:
+    - wastage
+  teacher:
+    - supply
